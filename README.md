@@ -11,3 +11,6 @@ A simple demonstration of how Arduino and MIT App inventor can create a smart ho
 .apk file if you want to install the app on your phone.
 
 Fritzing PNG showing how Arduino circuit is connected each white led represents a room.
+
+Remember pair the device with bluetooth module first the password might vary from module to module, either 1234 or 0000.
+After pairing you can establish connection through android app.
