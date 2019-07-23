@@ -12,5 +12,5 @@ A simple demonstration of how Arduino and MIT App inventor can create a smart ho
 
 Fritzing PNG showing how Arduino circuit is connected each white led represents a room.
 
-Remember pair the device with bluetooth module first the password might vary from module to module, either 1234 or 0000.
+Remember pair the device with bluetooth module first the password might vary from module to module, either 1234 or 0000. (I did not make an interface to change the bluetooth password yet)
 After pairing open up the App and establish connection, the Bluetooth module by now should stop blinking.
